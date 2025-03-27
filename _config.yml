@@ -1,0 +1,12 @@
+logo: /assets/img/logo.png
+description: Professor
+affiliation1: Sun Yat-sen University,China
+description2: Director
+affiliation2: National Supercomputing Center Guangzhou & National Supercomputing Center Shenzhen
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+# google_url: https://scholar.google.com/citations?user=Bo6PwnQAAAAJ
+sysu_url: https://cse.sysu.edu.cn/teacher/LuYutong
+title: Yutong Lu (卢宇彤)
+myemail: yutong.lu at nscc-gz.cn
