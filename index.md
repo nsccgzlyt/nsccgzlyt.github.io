@@ -1,6 +1,6 @@
 
-<p id="bio" />
-  
+<p id="bio" >
+</p>
 # Short Bio:
 
 >
@@ -26,8 +26,8 @@ Prof Yutong Lu, ISC 2025 Closing Keynote speaker & Jack Dongarra Early Career Aw
 **ISC'23, EuroPar'24, CCF HPC China/China Storage/Computility (in Chinese)** -->
 
 
-<p id="publications" />
-
+<p id="publications" >
+</p>
 # Publications:
 
 * Yuansong Zeng, Mai Luo, Ningyuan Shangguan, Peiyu Shi, Junxi Feng, Jin Xu, Ken Chen, **Yutong Lu**, Weijiang Yu, Yuedong Yang, "Deciphering cell types by integrating scATAC-seq data with genome sequences." Nat. Comput. Sci., 2024
