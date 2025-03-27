@@ -174,7 +174,6 @@ Prof Yutong Lu, holds an appointment as a professor in the Department of Comput
 * Yupan Huang, Qi Dai, **Yutong Lu**, "Decoupling Localization and Classification in Single Shot Temporal Action Detection." ICME, 2019
 * Peng Cheng, **Yutong Lu**, Yunfei Du, Zhiguang Chen, Yang Liu, "Optimizing Data Placement on Hierarchical Storage Architecture via Machine Learning." NPC, 2019
 * Yupan Huang, Qi Dai, **Yutong Lu**, "Decoupling Localization and Classification in Single Shot Temporal Action Detection." CoRR, 2019
-* Chenxu Wang, Yixian Shen, Jia Jia, **Yutong Lu**, Zhiguang Chen, Bo Wang, "SingleCaffe: An Efficient Framework for Deep Learning on a Single Node." IEEE Access, 2018
 * Yuxuan Xing, Zhiguang Chen, Nong Xiao, Fang Liu, **Yutong Lu**, "Graph Analytics on Manycore Memory Systems." IEEE Access, 2018
 * Shaoliang Peng, Minxia Cheng, Kaiwen Huang, Yingbo Cui, Zhiqiang Zhang, Runxin Guo, Xiaoyu Zhang, Shunyun Yang, Xiangke Liao, **Yutong Lu**, Quan Zou, Benyun Shi, "Efficient computation of motif discovery on Intel Many Integrated Core (MIC) Architecture." BMC Bioinform., 2018
 * **Yutong Lu**, Depei Qian, Haohuan Fu, Wenguang Chen, "Will supercomputers be super-data and super-AI machines?" Commun. ACM, 2018
@@ -218,31 +217,6 @@ Prof Yutong Lu, holds an appointment as a professor in the Department of Comput
 * Yingbo Cui, Xiangke Liao, Shaoliang Peng, **Yutong Lu**, Canqun Yang, Bingqiang Wang, Chengkun Wu, "Large-Scale Neo-Heterogeneous Programming and Optimization of SNP Detection on Tianhe-2." ISC, 2015
 * Heng Wang, Shaoliang Peng, **Yutong Lu**, Chengkun Wu, Jiajun Wen, Jie Liu, Xiaoqian Zhu, "BWTCP: A Parallel Method for Constructing BWT in Large Collection of Genomic Reads." ISC, 2015
 * Peng Cheng, **Yutong Lu**, Tao Gao, Chenxu Wang, "CoGA: Extension of GA on Heterogeneous System." UIC/ATC/ScalCom, 2015
-* Xiangke Liao, Liquan Xiao, Canqun Yang, **Yutong Lu**, "MilkyWay-2 supercomputer: system and application." Frontiers Comput. Sci., 2014
-* Weixia Xu, **Yutong Lu**, Qiong Li, Enqiang Zhou, Zhenlong Song, Yong Dong, Wei Zhang, Dengping Wei, Xiaoming Zhang, Haitao Chen, Jianying Xing, Yuan Yuan, "Hybrid hierarchy storage system in MilkyWay-2 supercomputer." Frontiers Comput. Sci., 2014
-* Tao Gao, **Yutong Lu**, Baida Zhang, Guang Suo, "Using the Intel Many Integrated Core to accelerate graph traversal." Int. J. High Perform. Comput. Appl., 2014
-* Zhiguang Chen, **Yutong Lu**, Nong Xiao, Fang Liu, "A hybrid memory built by SSD and DRAM to support in-memory Big Data analytics." Knowl. Inf. Syst., 2014
-* Yanhuang Jiang, Qiangli Zhao, **Yutong Lu**, "Ensemble based data stream mining with recalling and forgetting mechanisms." FSKD, 2014
-* Xianyi Zhang, Chao Yang, Fangfang Liu, Yiqung Liu, **Yutong Lu**, "Optimizing and Scaling HPCG on Tianhe-2: Early Experience." ICA3PP, 2014
-* Yiqung Liu, Xianyi Zhang, Chao Yang, Fangfang Liu, **Yutong Lu**, "Accelerating HPCG on Tianhe-2: A hybrid CPU-MIC algorithm." ICPADS, 2014
-* Changmao Wu, Yunquan Zhang, Congli Yang, **Yutong Lu**, "Physically based parallel ray tracer for the Metropolis light transport algorithm on the Tianhe-2 supercomputer." ICPADS, 2014
-* **Yutong Lu**, "Scalability­-Centric HPC System Design." IPDPS, 2014
-* Wei Xue, Chao Yang, Haohuan Fu, Xinliang Wang, Yangtong Xu, Lin Gan, **Yutong Lu**, Xiaoqian Zhu, "Enabling and Scaling a Global Shallow-Water Atmospheric Model on Tianhe-2." IPDPS, 2014
-* Jongsoo Park, Mikhail Smelyanskiy, Karthikeyan Vaidyanathan, Alexander Heinecke, Dhiraj D. Kalamkar, Xing Liu, Md. Mostofa Ali Patwary, **Yutong Lu**, Pradeep Dubey, "Efficient Shared-Memory Implementation of High-Performance Conjugate Gradient Benchmark and its Application to Unstructured Matrices." SC, 2014
-* Huajian Mao, Nong Xiao, **Yutong Lu**, Haifeng Xu, "Somersault cloud: Toward a cloud-of-clouds service for personal backup." ICNC, 2013
-* Guang Suo, **Yutong Lu**, Xiangke Liao, Min Xie, Hongjia Cao, "NR-MPI: A Non-stop and Fault Resilient MPI." ICPADS, 2013
-* Tao Gao, **Yutong Lu**, Guang Suo, "Using MIC to Accelerate a Typical Data-Intensive Application: The Breadth-first Search." IPDPS Workshops, 2013
-* Chao Yang, Wei Xue, Haohuan Fu, Lin Gan, Linfeng Li, Yangtong Xu, **Yutong Lu**, Jiachang Sun, Guangwen Yang, Weimin Zheng, "A peta-scalable CPU-GPU algorithm for global atmospheric simulations." PPoPP, 2013
-* Huajian Mao, Nong Xiao, Weisong Shi, **Yutong Lu**, "Wukong: A cloud-oriented file service for mobile Internet devices." J. Parallel Distributed Comput., 2012
-* Haitao Chen, **Yutong Lu**, Qinghua Zhu, "A Power-aware Job Scheduling Algorithm." CDC, 2012
-* Huajian Mao, Nong Xiao, **Yutong Lu**, "RAIC: Redundant Array of Inexpensive Cloud." ICHIT, 2012
-* Huajian Mao, Hang Zhang, Xianqiang Bao, Nong Xiao, Weisong Shi, **Yutong Lu**, "EaSync: A Transparent File Synchronization Service across Multiple Machines." NPC, 2012
-* Huajian Mao, Nong Xiao, Weisong Shi, **Yutong Lu**, "Wukong: Toward a Cloud-Oriented File Service for Mobile Devices." IEEE SCC, 2010
-* Yan-Huang Jiang, Qiang-Li Zhao, **Yutong Lu**, Xue-Jun Yang, "Heterogeneity Issues and Supports in MPI Implementations: An Overview." GCC, 2009
-* **Yutong Lu**, Huajian Mao, Jie Shen, "A Distributed file system framework for transparent accessing heterogeneous storage services." IPDPS, 2009
-* **Yutong Lu**, Nong Xiao, Xuejun Yang, "Scalable Resource Management System for High Productive Computing." ChinaGrid, 2008
-* **Yutong Lu**, Min Wang, Nong Xiao, "A New Heartbeat Mechanism for Large-Scale Cluster." APWeb Workshops, 2006
-* **Yutong Lu**, Zhiyu Shen, Enqiang Zhou, Min Zhu, "MCRM System: CIM-Based Multiple Clusters Manager." ISPA Workshops, 2005
 
 
 
